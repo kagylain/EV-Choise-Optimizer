@@ -1,4 +1,4 @@
-# EV-Choise-Optimizer :battery:
+# EV-Choise-Optimizer :recycle:
 
 
 ## Optimizing electric vehicle choices in Taiwan through data analysis. 
@@ -6,7 +6,7 @@ This project aims to develop a simple system to compare EVs available in Taiwan.
 
 There are typically three types of recommendation strategies used to suggest electric vehicles (EVs) to users based on their preferences and input. 
 
-### Strict Recommendation System ### :round_pushpin: :recycle:
+### Strict Recommendation System ### :round_pushpin: 
 This system recommends EVs that match the user's input exactly. 
 It uses specific user preferences like: 
 * budget (maximum price) 
