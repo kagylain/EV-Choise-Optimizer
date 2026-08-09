@@ -9,20 +9,20 @@ There are typically three types of recommendation strategies used to suggest ele
 ### Strict Recommendation System ###
 This system recommends EVs that match the user's input exactly. 
 It uses specific user preferences like: 
-*budget (maximum price) 
-*preferred brand
-*body style (e.g., sedan, SUV, etc.)
-*minimum required range (km)
-*maximum acceleration time
-*number of seats 
-*preferred powertrain (AWD, RWD, FWD, or no preference) 
+* budget (maximum price) 
+* preferred brand
+* body style (e.g., sedan, SUV, etc.)
+* minimum required range (km)
+* maximum acceleration time
+* number of seats 
+* preferred powertrain (AWD, RWD, FWD, or no preference) 
 
 ### Fallback Recommendation System ###
 When no cars are found that match all of the user's exact preferences, the fallback system uses a relaxed version of the filtering criteria. 
 It primarily considers: 
-*budget
-*minimum range
-*number of seats
+* budget
+* minimum range
+* number of seats
 
 ### Machine Learning (ML) Recommendation System
 This system uses a machine learning model (an artificial neural network) to predict which cars might suit the user based on their input. The model is trained using historical data on car features (price, range, seats) and user preferences.
