@@ -6,7 +6,7 @@ This project aims to develop a simple system to compare EVs available in Taiwan.
 
 There are typically three types of recommendation strategies used to suggest electric vehicles (EVs) to users based on their preferences and input. 
 
-### Strict Recommendation System ### :round_pushpin: 
+### Strict Recommendation System  :round_pushpin: 
 This system recommends EVs that match the user's input exactly. 
 It uses specific user preferences like: 
 * budget (maximum price) 
@@ -17,7 +17,7 @@ It uses specific user preferences like:
 * number of seats 
 * preferred powertrain (AWD, RWD, FWD, or no preference) 
 
-### Fallback Recommendation System ### :round_pushpin:
+### Fallback Recommendation System :round_pushpin:
 When no cars are found that match all of the user's exact preferences, the fallback system uses a relaxed version of the filtering criteria. 
 It primarily considers: 
 * budget
