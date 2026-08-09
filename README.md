@@ -1,4 +1,4 @@
-# EV-Choise-Optimizer
+# EV-Choise-Optimizer :battery:
 
 
 ## Optimizing electric vehicle choices in Taiwan through data analysis. 
